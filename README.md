@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/30283782/README.md)
 # 2026 Harvey County Community Health Needs Assessment — Web Page
 
 A single-page website for United Way of Harvey and Marion Counties that hosts and explains the **2026 Harvey County Community Health Needs Assessment (CHNA) and Community Health Improvement Plan (2026–2029)**.
